@@ -1,10 +1,4 @@
 # MTLLOC 
-
----
-
----
-
-
 ## Image-to-Image Prediction
 
 ### Setup environment
